@@ -1,81 +1,53 @@
-<!-- 💡 GitHub Profile README Template (KOR + ENG ver.) by PT -->
+# 👋 안녕하세요! 저는 영상 제작과 개발을 병행하는 **Yang Harry** 입니다.
 
-# 👋 안녕하세요, Harry입니다! / Hi, I'm Harry!
-
-🎬 **영상 편집자 (Video Editor)** | 💻 **웹 개발자 지망생 (Web Developer in training)** | 🎧 **하우스뮤직 DJ (House Music DJ)**  
-
-코드로 무언가를 만들고, 영상으로 감정을 담고, 음악으로 분위기를 만듭니다.  
-기술과 예술을 넘나드는 창작자로서, 매일 새로운 표현 방식을 탐구하고 있습니다.  
-
-I create through **code**, **video**, and **music** — exploring the intersection of tech and art.  
-Always curious, always building something new.  
+🎥 **영상 편집자 & 개발자**로서, 감각적인 시각 표현과 효율적인 코드 구현을 함께 고민합니다.  
+새로운 기술을 배우는 걸 즐기며, 시각적 완성도와 논리적 구조 둘 다 중요하게 생각합니다.
 
 ---
 
-## 🛠 기술 스택 / Tech Stack
+## 🛠️ 기술 스택 (Tech Stack)
 
-**Languages & Tools**
+### 🎬 영상 & 디자인
+- **Final Cut Pro** 🎞️  
+- **Adobe Photoshop** 🖼️  
+- **Figma** 🎨  
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?logo=adobe%20premiere%20pro&logoColor=white)
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?logo=adobe%20after%20effects&logoColor=white)
-
----
-
-## 🌱 배우는 중 / Currently Learning
-
-- Spring Boot & JPA  
-- HTML / CSS Frontend Design  
-- Clean & minimal UI/UX  
-- DJing and live mixing for YouTube content  
-
-> 💬 _“작지만 꾸준한 성장, 그것이 나의 리듬입니다.”_  
-> _“Small steps every day — that’s my rhythm.”_  
+### 💻 개발
+- **HTML / CSS / JavaScript**  
+- **Java / Spring Boot**  
+- **Oracle (SQL)**  
 
 ---
 
-## 🚀 주요 프로젝트 / Featured Projects
-
-🎥 [**MY College Consulting (MYCC)** – YouTube Video Edits](https://www.youtube.com/@MYCollegeConsulting)  
-> 미국 MIT 졸업생이 운영하는 교육 채널의 영상 편집 및 제작 참여  
-> Video production & editing for an MIT alum–led education channel.
-
-💻 [**Dashi Market Web App**](https://github.com/Team-Nuguri/dashimarket)  
-> Spring Boot 기반 커뮤니티형 중고 거래 프로젝트  
-> A Spring Boot project focused on building a community-driven marketplace.
+## 📚 배우는 중 (Currently Learning)
+- 🐍 **Python**
 
 ---
 
-## 📊 깃허브 통계 / GitHub Stats
+## 🚀 주요 프로젝트 (Main Projects)
 
-![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarryYang25&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryYang25&layout=compact&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=HarryYang25&theme=tokyonight&hide_border=true)
+### 🎧 [희희준준 YouTube 채널](https://www.youtube.com/@%ED%9D%AC%ED%9D%AC%EC%A4%80%EC%A4%80)
+> 직접 기획, 촬영, 편집까지 담당한 유튜브 콘텐츠.  
+> 하우스뮤직과 영상미를 결합해 감각적인 브랜딩을 시도했습니다.
 
----
-
-## 🎧 취미 / Fun Fact
-
-🪩 코딩이 막힐 땐, 디제잉으로 머리를 식힙니다.  
-🎶 When I’m not coding, I’m mixing house music at home or creating video mashups.  
-
-🎬 좋아하는 감정: 완성된 프로젝트를 `git push`하는 순간.  
-☕ 즐겨 하는 일: 새벽 2시에 영상 색보정하기.  
+🎬 **대표 영상:**  
+[연봉인상 X 빠니보틀 콜라보 봉사활동 영상](https://youtu.be/93xqYIgeLQw?si=Z2ezCr_eyWOXWcbL)
 
 ---
 
-## 📫 연락 / Contact
+## 📊 GitHub 통계 (Stats)
 
-- 📧 **Email:** harryyang@example.com  
-- 📷 **Instagram:** [@harryyang25](https://instagram.com/harryyang25)  
-- 🎵 **YouTube (Coming soon):** *Service Sounds*  
+![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarryYang25&show_icons=true&theme=dracula&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryYang25&layout=compact&theme=dracula)
 
 ---
 
-> ✨ _“기술로 감동을 만들고, 예술로 이야기를 전한다.”_  
-> ✨ _“I tell stories through technology and emotion.”_  
-> — **Harry**
+## 💬 연락하기 (Contact)
+- 📧 **이메일:** [gmlwns9863@gmail.com](mailto:gmlwns9863@gmail.com)
+- 🖥️ **GitHub:** [github.com/HarryYang25](https://github.com/HarryYang25)
+- 🎥 **YouTube:** [희희준준 채널](https://www.youtube.com/@%ED%9D%AC%ED%9D%AC%EC%A4%80%EC%A4%80)
+- 📷 **Instagram:** [@yangheejuun](https://instagram.com/yangheejuun) 
+
+---
+
+> 🌱 “29살, 경계선에 서서 — 성장의 여정을 계속 써나가는 중입니다.”
