@@ -27,13 +27,16 @@ I enjoy learning new technologies and strive for both visual polish and clean st
 ---
 
 ## 📚 배우는 중 (Currently Learning)
-- 🐍 **Python**
-
+- Python
+- Spring Boot & JPA  
+- Frontend with HTML/CSS  
+- Clean, minimal UI design  
+- DJ mixing & live recording for YouTube  
 ---
 
 ## 🚀 주요 프로젝트 (Main Projects)
 
-### 🎧 [희희준준 YouTube 채널 (HeeHeeJoonJoon Channel)](https://www.youtube.com/@%ED%9D%AC%ED%9D%AC%EC%A4%80%EC%A4%80)
+### 🎧 [희희준준 YouTube 채널](https://www.youtube.com/@%ED%9D%AC%ED%9D%AC%EC%A4%80%EC%A4%80)
 > 직접 기획, 촬영, 편집까지 담당한 유튜브 콘텐츠.  
 > 하우스뮤직과 영상미를 결합해 감각적인 브랜딩을 시도했습니다.  
 I personally plan, film, and edit content for this channel.  
