@@ -1,7 +1,11 @@
-# 👋 안녕하세요! 저는 영상 제작과 개발을 병행하는 **Yang Harry** 입니다.  
-# 👋 Hi there! I'm **Yang Harry**, a creator who blends video production and development.
+<!-- 💡 GitHub Profile README Template (KOR + ENG ver.) by PT -->
 
-🎥 **영상 편집자 & 개발자**로서, 감각적인 시각 표현과 효율적인 코드 구현을 함께 고민합니다.  
+# 👋 안녕하세요, Harry입니다! / Hi, I'm Harry!
+
+🎬 **영상 편집자 (Video Editor)** | 💻 **웹 개발자 지망생 (Web Developer in training)** | 🎧 **하우스뮤직 DJ (House Music DJ)**  
+
+
+감각적인 시각 표현과 효율적인 코드 구현을 함께 고민합니다.  
 As a **video editor & developer**, I value both visual creativity and logical efficiency.  
 새로운 기술을 배우는 걸 즐기며, 시각적 완성도와 논리적 구조 둘 다 중요하게 생각합니다.  
 I enjoy learning new technologies and strive for both visual polish and clean structure.
