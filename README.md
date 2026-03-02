@@ -38,22 +38,29 @@
 
 ### 🌐 DevLog – 차세대 개발자 커뮤니티 플랫폼 (Team ZERO-BOOST)
 > 단순한 기술 기록을 넘어 개발자의 감정, 성장 경험, 실시간 소통을 담아내는 커뮤니티 플랫폼
-> **Tech:** Java 17 · Spring Boot 3.5.7 · JPA · Oracle DB 
+
+🔗 GitHub: https://github.com/Team-ZeroBoost/Devlog.git
 
 - **블로그 시스템 개발:** 사용자별 독립적인 기술 블로그 포스팅 및 관리 기능 구현
 - **마이페이지 및 활동 관리:** 사용자 정보 관리 및 플랫폼 내 활동 내역(내 활동) 트래킹 구조 설계
 - **소셜 네트워크 기능:** 사용자 간 팔로우 및 구독 기능을 통한 네트워크 형성 로직 구현
 
+
 ---
 
 ### 📦 DashiMarket – 중고거래 플랫폼
-> 팀 프로젝트로 진행한 **중고거래 웹 서비스**
-> **Tech:** Java · Spring Boot · Oracle DB 
+> 거래 이후에도 머무를 수 있는 커뮤니티형 중고 거래 서비스 중고거래 웹 서비스
+
+🔗 GitHub: https://github.com/Team-Nuguri/dashimarket.git
 
 - CRUD 기능 구현 및 데이터베이스 ERD 설계
 - Service 계층 비즈니스 로직 분리 및 최적화
 - 공지사항/FAQ/리뷰 시스템의 페이징 및 동적 검색 기능 개발
 - 다중 파일 업로드 및 관리 로직 처리
+
+### 📊 Data Analysis (Python)
+생활습관 / 신체요인에 따른 질병 위험도 분석 — 건강 데이터 기반 위험 요인 탐색
+🔗 GitHub: https://github.com/Team-3man/disease_analysis.git
 
 ---
 
