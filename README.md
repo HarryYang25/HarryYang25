@@ -60,13 +60,8 @@
 
 ### 📊 Data Analysis (Python)
 생활습관 / 신체요인에 따른 질병 위험도 분석 — 건강 데이터 기반 위험 요인 탐색
+
 🔗 GitHub: https://github.com/Team-3man/disease_analysis.git
-
----
-
-## 📊 GitHub 통계 (Stats)
-![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarryYang25&show_icons=true&theme=dracula&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryYang25&layout=compact&theme=dracula)
 
 ---
 
