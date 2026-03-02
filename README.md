@@ -1,71 +1,72 @@
-# 👋 안녕하세요, 양희준입니다!
+# 👋 안녕하세요, 백엔드 개발자 양희준입니다!
 
-💻 **웹 개발자 지망생 (Web Developer in training)**  
+💻 **협업과 소통을 중시하며, 끊임없이 개선을 추구합니다.**
 
-새로운 기술을 배우는 과정에서 **명확한 구조**, **깨끗한 코드**, **직관적인 UI/UX**를 중요하게 생각합니다.  
-백엔드와 프론트엔드를 함께 경험하며, 서비스 전체의 흐름을 이해하는 개발자가 되는 것을 목표로 하고 있습니다.
+비전공자로서 마주했던 낯선 개념들은 **꼼꼼한 복습과 기록**을 통해 저만의 탄탄한 지식으로 만들어왔습니다. **직무에 대한 진심**을 바탕으로, 시스템의 전체 흐름을 이해하고 팀과 회사에 신뢰받는 구성원이 되는 것을 목표로 합니다.
 
 ---
 
 ## 🛠️ 기술 스택 (Tech Stack)
 
-### 🔧 언어 & 프레임워크  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+### 🔧 언어 & 프레임워크
+![Java](https://img.shields.io/badge/Java_17-007396?logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-59666C?logo=hibernate&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-### 🗄️ 데이터베이스  
+### 🗄️ 데이터베이스 및 인프라
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-### 🛠️ 도구  
+### 🛠️ 도구
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Spring Tool Suite](https://img.shields.io/badge/STS-6DB33F?logo=spring&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 📚 배우는 중 (Currently Learning)
-- Spring Boot & JPA 심화  
-- REST API 설계 및 인증/인가  
-- Python 데이터 분석  
-- UI/UX 관점의 프론트엔드 구조  
+- **AI 연동 및 활용:** OpenAI API 등을 활용한 서비스 기능 확장 및 AI 기반 업무 효율화
+- **Enterprise System & PLM:** 제조업의 데이터 흐름과 PLM(Product Lifecycle Management) 솔루션 아키텍처 이해
+- **Backend Deep Dive:** Spring Boot & JPA 심화, REST API 설계 및 대규모 트래픽 처리
 
 ---
 
 ## 🚀 주요 프로젝트 (Projects)
 
-### 📦 DashiMarket – 중고거래 플랫폼  
-> 팀 프로젝트로 진행한 **중고거래 웹 서비스**  
-> Java · Spring Boot · Oracle 기반  
-> 공지사항/FAQ/리뷰 시스템 개발 담당
+### 🌐 DevLog – 차세대 개발자 커뮤니티 플랫폼 (Team ZERO-BOOST)
+> 단순한 기술 기록을 넘어 개발자의 감정, 성장 경험, 실시간 소통을 담아내는 커뮤니티 플랫폼
+> **Tech:** Java 17 · Spring Boot 3.5.7 · JPA · Oracle DB 
 
-- CRUD 기능 구현  
-- ERD 설계  
-- Service 계층 비즈니스 로직  
-- 페이징 & 검색 기능  
-- 파일 업로드 처리  
+- **블로그 시스템 개발:** 사용자별 독립적인 기술 블로그 포스팅 및 관리 기능 구현
+- **마이페이지 및 활동 관리:** 사용자 정보 관리 및 플랫폼 내 활동 내역(내 활동) 트래킹 구조 설계
+- **소셜 네트워크 기능:** 사용자 간 팔로우 및 구독 기능을 통한 네트워크 형성 로직 구현
 
 ---
 
-### 🌐 DevLog – 개발자 블로그 플랫폼  
-> 현재 개발 중인 팀 프로젝트  
-> 게시판, 태그 시스템, 검색 기능, 카테고리 구조 개발 중
+### 📦 DashiMarket – 중고거래 플랫폼
+> 팀 프로젝트로 진행한 **중고거래 웹 서비스**
+> **Tech:** Java · Spring Boot · Oracle DB 
+
+- CRUD 기능 구현 및 데이터베이스 ERD 설계
+- Service 계층 비즈니스 로직 분리 및 최적화
+- 공지사항/FAQ/리뷰 시스템의 페이징 및 동적 검색 기능 개발
+- 다중 파일 업로드 및 관리 로직 처리
 
 ---
 
 ## 📊 GitHub 통계 (Stats)
-![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarryYang25&show_icons=true&theme=dracula&count_private=true)  
+![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarryYang25&show_icons=true&theme=dracula&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryYang25&layout=compact&theme=dracula)
 
 ---
 
 ## 💬 연락처 (Contact)
-- 📧 **이메일:** gmlwns9863@gmail.com  
-- 🖥️ **GitHub:** https://github.com/HarryYang25  
+- 📧 **이메일:** gmlwns9863@gmail.com
+- 🖥️ **GitHub:** https://github.com/HarryYang25
 
 ---
 
-> 🌱 “29살, 경계선에서 — 개발자로 성장하며 저만의 길을 만들어가고 있습니다.”
+> 🌱 “경계선을 넘어 실무자로 — 매일의 복습과 기록으로 저만의 길을 단단하게 다져가고 있습니다.”
